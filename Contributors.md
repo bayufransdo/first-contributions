@@ -38,6 +38,7 @@
 - [Bonniekiprop](https://github.com/Bonfacekiprop)
 - [Nikhil Maurya](https://github.com/Nikhil4711)
 - [JaggedGem](https://github.com/JaggedGem)
+- [Bayu Maulana] (https://github.com/bayufransdo)
 - [Henry Hansen] (https://github.com/HenryHansenK)
 - [CyberKyber](https://github.com/CyberGlitch86)
 - [Faizan Ahmed](https://github.com/faizan2ahmed)
